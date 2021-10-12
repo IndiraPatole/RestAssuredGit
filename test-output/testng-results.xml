@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13295" started-at="2021-10-08T23:42:53Z" finished-at="2021-10-08T23:43:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13295" started-at="2021-10-08T23:42:53Z" finished-at="2021-10-08T23:43:07Z">
+      <class name="wAPI.WeatherPuneAPI">
+        <test-method status="PASS" signature="getWeather()[pri:0, instance:wAPI.WeatherPuneAPI@59d016c9]" name="getWeather" duration-ms="10170" started-at="2021-10-08T23:42:53Z" description="Getting weather information of specific city" finished-at="2021-10-08T23:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather -->
+        <test-method status="PASS" signature="getWeather3()[pri:0, instance:wAPI.WeatherPuneAPI@59d016c9]" name="getWeather3" duration-ms="1538" started-at="2021-10-08T23:43:04Z" description="Getting weather information of a specific city" finished-at="2021-10-08T23:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather3 -->
+        <test-method status="PASS" signature="getWeather4()[pri:0, instance:wAPI.WeatherPuneAPI@59d016c9]" name="getWeather4" duration-ms="1443" started-at="2021-10-08T23:43:05Z" description="Getting weather information of a specific city" finished-at="2021-10-08T23:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather4 -->
+      </class> <!-- wAPI.WeatherPuneAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
